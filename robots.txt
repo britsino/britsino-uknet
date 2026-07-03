@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://britsino.github.io/britsino-uknet/sitemap.xml
